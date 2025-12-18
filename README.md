@@ -26,7 +26,7 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/randomNaming"><img src="https://img.shields.io/badge/GitHub-randomNaming-white?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/Xiaokang2022"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-orange?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://gitee.com/garrettxia"><img src="https://img.shields.io/badge/Gitee-garrettxia-orange?logo=gitee" alt="Gitee" title="Gitee" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
